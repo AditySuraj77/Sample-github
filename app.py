@@ -14,5 +14,6 @@ with col2:
 
 st.header('LLM Models')
 st.subheader("Gemini")
-st.subheader("OpenAI")
 st.subheader("Claude")
+st.subheader('Mistral')
+st.subheader('Gemma')
