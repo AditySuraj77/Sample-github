@@ -17,3 +17,6 @@ st.subheader("Gemini")
 st.subheader("Claude")
 st.subheader('Mistral')
 st.subheader('Gemma')
+
+
+st.sidebar.title('Menu')
