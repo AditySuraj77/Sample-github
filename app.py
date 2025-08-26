@@ -9,7 +9,7 @@ with col1:
     st.write("Some stuff")
 
 with col2:
-    st.header("Bay")
+    st.subheader("Bay")
 
 
 st.header('LLM Models')
