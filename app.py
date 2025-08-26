@@ -18,3 +18,18 @@ st.subheader("Claude")
 st.subheader('Mistral')
 st.subheader('Gemma')
 st.subheader('LLamma')
+
+
+
+st.sidebar.title('Menu')
+st.sidebar.markdown("""
+
+- Home
+- About
+- Career
+- Login
+- Register
+- Contact Us
+                
+""")
+
