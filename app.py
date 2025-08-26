@@ -10,3 +10,9 @@ with col1:
 
 with col2:
     st.header("Bay")
+
+
+st.header('LLM Models')
+st.subheader("Gemini")
+st.subheader("OpenAI")
+st.subheader("Claude")
