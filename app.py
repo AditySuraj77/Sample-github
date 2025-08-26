@@ -26,5 +26,7 @@ st.sidebar.markdown("""
 - About
 - Career
 - Login
+- Register
+- Contact Us
                 
 """)
